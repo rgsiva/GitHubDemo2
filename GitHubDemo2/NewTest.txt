@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is from Eclipse
+=======
+This is created by GitHub
+>>>>>>> branch 'master' of https://github.com/rgsiva/GitHubDemo2.git
